@@ -1,1 +1,14 @@
-
+<servers>
+  <server>
+  <name>Arkiease Asia ProjectZ (Freedom) Pure Vanilla (Southeast Asia) [Steam / Non-Steam Compatible]</name>
+  <ip>206.237.107.151</ip>
+  <port>16261</port>
+  <desc>[Steam Port: 16262 / Non-Steam Port: 16261] [EN / ASIA] Visit our Website: https://www.arkiease.com | Discord: https://discord.arkiease.com | Anti-Cheat : https://anticheat.arkiease.com | Active Players: 3 / 32 | Ranking Players / Factions | Electric / Water: Infinite | Safehouse: Enabled | Secure Safehouse Backup System | PVE Mode: Enabled | Non-PVP Zones: Rosewood, Riverside, Muldraugh, West Point | Zombie Respawn: Normal | Sprinters: Enabled | Fire: Enabled | Multi-Hit: Enabled | Dynamic Wipe System | Dynamic Safe Zones Safehouses | Weekly Events Mini-Games | Arkiease Shop | Arkiease Coins | Item Removal System | 24/7 Active Support | Backup Recovery (Safe Environment) | Advanced Anti-Cheat (Fair Secure Gameplay) | Join Now!</desc>
+  <players>31</players>
+  <maxPlayers>32</maxPlayers>
+  <open>1</open>
+  <version>42.18</version>
+  <mods/>
+  <lastUpdate>1778760683</lastUpdate>
+  </server>
+</servers>
